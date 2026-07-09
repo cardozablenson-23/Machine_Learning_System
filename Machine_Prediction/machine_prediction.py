@@ -25,7 +25,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 print("="*80)
-print("MACHINE FAILURE PREDICTION - USING ORIGINAL FEATURES")
+print("MACHINE FAILURE PREDICTION")
 print("="*80)
 
 # Load dataset
